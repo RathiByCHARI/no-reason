@@ -1,0 +1,219 @@
+{
+    "name": "Aquabot - MD",
+    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/9862e196aef65aeb35594.jpg",
+    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
+    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
+    "website":   "https://aquabot.ga/",
+    "success_url": "https://aquabot.ga",
+    "stack": "container",
+     "env": {
+            "RATHI_SESSION": {
+            "description": "AQUA=Y4AywbTB",
+            "required": true
+             },
+            "NO_ONLINE": {
+            "description": "",
+            "required": true,
+             "value": "false"    
+             },
+            "ANTI_BOT": {
+            "description": "",
+            "value": "false" ,    
+            "required": true
+             },
+            "ONLY_GROUP": {
+            "description": "",
+            "value": "false" ,    
+            "required": true
+             },
+             "REMOVE_BG_API_KEY": {
+            "description": "mHPaeNEB3zoGteqaWB2XUdz7",
+            "required": true
+             },
+            "OWN_NAME": {
+            "description": "",
+            "value": "CHARITH SENANAYAKE" ,
+            "required": true
+             },
+             "OWN_NUMBER": {
+            "description": "",
+            "value": "94712448370" ,
+            "required": true
+             },
+       
+            "AUTO_REACT": {
+            "description": "",
+            "value": "true" ,
+            "required": true
+             },
+           
+           "URL_1NAME": {
+            "description": "",
+            "value": "🪀TEXT ME🪀" ,
+            "required": true
+      },
+           "URL_1LINK": {
+            "description": "",
+            "value": "https://wa.me/94712448370?text=HI%20RATHI🤗" ,
+            "required": true
+      },
+     "URL_2NAME": {
+            "description": "",
+            "value": "🐱‍💻GITHUB🐱‍💻" ,
+            "required": true
+      },
+       "URL_2LINK": {
+            "description": "",
+            "value": "https://github.com/CharithPramodyaSenanayake" ,
+            "required": true
+      },
+       "FOOTER": {
+            "description": "",
+            "value": "𝚋𝚘𝚝𝚁𝙰𝚃𝙷𝙸 𝚋𝚢 𝙲𝙷𝙰𝚁𝙸 ²⁰²²" ,
+            "required": true
+      },
+     "ANTI_LINK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "CAPTION": {
+            "description": "",
+            "value": "© 𝚋𝚘𝚝𝚁𝙰𝚃𝙷𝙸 𝚋𝚢 𝙲𝙷𝙰𝚁𝙸 ²⁰²²" ,
+            "required": true
+      },
+       "INBOX_BLOCK": {
+            "description": "",
+            "value": "false" ,
+            "required": true
+      },
+       "INBOX_BLOCK_MSG": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+      "ALIVE_MESSAGE": {
+            "description": "",
+            "value": "default", 
+            "required": true
+      },
+      "ALIVE_LOGO": {
+            "description": "",
+            "value": "https://telegra.ph/file/9862e196aef65aeb35594.jpg" ,
+            "required": true
+      },
+      "DEPLOYER": {
+            "description": "",
+            "value": "CHARITH PRAMODYA SENANAYAKE" ,
+            "required": true
+      },
+       "SONG_DOWN": {
+            "description": "",
+            "value": "*Downloading your song...*" ,
+            "required": true
+      }, 
+        "SONG_UP": {
+            "description": "",
+            "value": "*Uploading your song...*" ,
+            "required": true
+      },
+          "VIDEO_DOWN": {
+            "description": "",
+            "value": "*Downloading your video...*" ,
+            "required": true
+      },
+          "VIDEO_UP": {
+            "description": "",
+            "value": "*Uploading your video...*" ,
+            "required": true
+      },
+          "FILE_DOWN": {
+            "description": "",
+            "value": "*Downloading your file...*" ,
+            "required": true
+      },
+          "FILE_UP": {
+            "description": "",
+            "value": "*Uploading your file...*" ,
+            "required": true
+      },
+          "STIC_WM": {
+            "description": "",
+            "value": "🐱‍💻𝚋𝚘𝚝𝚁𝙰𝚃𝙷𝙸🐱‍💻" ,
+            "required": true
+      },
+          "WORK_TYPE": {
+            "description": "",
+            "value": "public" ,
+            "required": true
+      },
+         "SUDO": {
+            "description": "",
+            "value": "94712448370,0" ,
+            "required": false
+      },
+         "LANGUAGE": {
+            "description": "",
+            "value": "EN" ,
+            "required": true
+      },
+         "HEROKU": {
+            "description": "",
+            "value": "true" ,
+            "required": true
+      },
+         "HEROKU_API_KEY": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "HEROKU_APP_NAME": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "BAN_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "ADD_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+        "PROMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "DEMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "MUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "UNMUTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+        "KICKME_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      }  
+        
+     },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
